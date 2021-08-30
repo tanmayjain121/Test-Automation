@@ -1,4 +1,5 @@
-from unittest.case import TestCase, main
+from unittest.case import TestCase
+from unittest import main
 
 class TestNothing(TestCase):
     def test_it(self):
